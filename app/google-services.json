@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "191950566410",
+    "firebase_url": "https://fir-fblogin-c5747.firebaseio.com",
+    "project_id": "fir-fblogin-c5747",
+    "storage_bucket": "fir-fblogin-c5747.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191950566410:android:b5237df1c4944e131a5bf3",
+        "android_client_info": {
+          "package_name": "com.dip.firebasefblogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191950566410-rnmo39lc0vnvrf7qnqqbi6pnin6c5a52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi6T2tWGIgLmFvYmMRsZoeI2-RnySesuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191950566410-rnmo39lc0vnvrf7qnqqbi6pnin6c5a52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
